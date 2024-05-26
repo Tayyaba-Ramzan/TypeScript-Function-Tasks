@@ -1,2 +1,2 @@
 # TypeScript-Function-Tasks
- In this module, you'll grasp TypeScript's essentials, covering basic data types like numbers and strings, exploring crucial operators (assignment, arithmetic, comparison), and mastering control flow statements (if/else, switch) for efficient program management.
+𝘓𝘦𝘢𝘳𝘯 𝘛𝘺𝘱𝘦𝘚𝘤𝘳𝘪𝘱𝘵 𝘣𝘢𝘴𝘪𝘤𝘴: 𝘥𝘢𝘵𝘢 𝘵𝘺𝘱𝘦𝘴 (𝘯𝘶𝘮𝘣𝘦𝘳𝘴, 𝘴𝘵𝘳𝘪𝘯𝘨𝘴), 𝘰𝘱𝘦𝘳𝘢𝘵𝘰𝘳𝘴 (𝘢𝘴𝘴𝘪𝘨𝘯𝘮𝘦𝘯𝘵, 𝘢𝘳𝘪𝘵𝘩𝘮𝘦𝘵𝘪𝘤, 𝘤𝘰𝘮𝘱𝘢𝘳𝘪𝘴𝘰𝘯), 𝘢𝘯𝘥 𝘤𝘰𝘯𝘵𝘳𝘰𝘭 𝘧𝘭𝘰𝘸 (𝘪𝘧/𝘦𝘭𝘴𝘦, 𝘴𝘸𝘪𝘵𝘤𝘩) 𝘧𝘰𝘳 𝘦𝘧𝘧𝘪𝘤𝘪𝘦𝘯𝘵 𝘱𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘪𝘯𝘨.
